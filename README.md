@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![IMG-20261019-WA0727.jpg](banner.png)
 
 # 👨‍💻 Giovani Martinez Guzman
 ### Ethical Hacker | Cybersecurity Engineer | WAF AntiSuplantación
