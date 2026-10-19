@@ -1,4 +1,4 @@
-IMG-20261019-WA7811.jpg
+banner.png
 
 # 👨‍💻 Giovani Martinez Guzman
 ### Ethical Hacker | Cybersecurity Engineer | Secure Code
